@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 10px;
+	font-family: Arial;
+	min-width: 400px;
+}
+
+button{
+	color: white;
+	background: #5f9341;
+	font-weight: bold;
+	border: 1px solid #5f9341;
+	margin-top: 2px;
+	width: 120px;
+	padding: 10px;
+	height:30px;
+	cursor: pointer;
+}
+
+#del{
+	color: #5f9341;
+	background: white;
+}
+
+input{
+	width: 100%;
+	box-sizing: border-box;
+	border: 1px solid #5f9341;
+	height: 30px;
+	padding: 4px;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+li{
+	padding: 2px;
+}
+
+a{
+	color: #5f9341;
+}
